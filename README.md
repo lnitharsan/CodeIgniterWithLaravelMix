@@ -2,7 +2,7 @@
 ### Author LN Nitharsan <tharsanphp@gmail.com>
 
 ## How to use
-1. Clone this repo and `cd` into it.
+1. Clone this repositories and `cd` into it.
 2. Install npm modules.
 ```
 npm install
