@@ -1,5 +1,5 @@
 # CodeIgniter With Laravel Mix
-### Author LN Nitharsan <tharsanphp@gmail.com>
+
 
 ## How to use
 1. Clone this repositories and `cd` into it.
